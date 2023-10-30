@@ -10,6 +10,8 @@ A user-friendly menu-driven program that allows users to perform various image o
 7. Convert the image to different colour formats
 8. Remove image background
 
-## Compatibility Python - version 3.8
+## Compatibility 
+Python - version 3.8
 
-## Instructions to Run -pip install numpy -pip install opencv-python
+## Instructions to Run 
+-pip install numpy -pip install opencv-python
